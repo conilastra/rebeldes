@@ -3,13 +3,14 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import data, { teams } from './data/data';
 import './App.css';
 import Team from './views/Team/Team';
+import Home from './views/Home/Home';
 
 function App() {
 	return (
 		<Router>
 			<Switch>
 				<Route exact path="/">
-					<h1>:)</h1>
+					<Home teams={teams} />
 				</Route>
 
 				{teams.map((team) => {

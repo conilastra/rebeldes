@@ -80,7 +80,7 @@ const data = [
 		razones:
 			'Me gusta vinculación, soy vendedora y creo que podría ser un buen aporte.... porque en el fondo es venderles lo  que hacemos en al rebelión a otras personas y hacer actividades colaborativas y/o obtener beneficios',
 		presentacion:
-			'Alejandra es muy motivada y proactiva, esa clase de persona que toma la iniciativa y saca adelante proyectos. Desde su experiencia como vendedora, considera que podría ser un gran aporte a Vinculación, ya que lo ve como una instancia de "vender" lo que hacemos en La Rebelión a otras organizaciones y así lograr alianzas colaborativas.'
+			'Alejandra es muy motivada y proactiva, esa clase de persona que toma la iniciativa y saca adelante proyectos. Desde su experiencia como vendedora, considera que podría ser un gran aporte a Vinculación, ya que lo ve como una instancia de ~vender~ lo que hacemos en La Rebelión a otras organizaciones y así lograr alianzas colaborativas.'
 	},
 	{
 		nombre: 'Anaí Nuñez',
@@ -216,7 +216,7 @@ const data = [
 		'equipo recomendado': 'Gestión Interna e Intervención',
 		ficha: 'x',
 		equipo: 'x',
-		equipos: 'Gestión interna',
+		equipos: 'Gestión Interna',
 		razones:
 			'Creo que puedo ser un aporte, soy muy organizada, al ser profesora de me da muy bien planificar y trabajar directamente con otras personas.',
 		presentacion:
@@ -270,7 +270,7 @@ const data = [
 		'equipo recomendado': 'gestion interna',
 		ficha: 'x',
 		equipo: 'x',
-		equipos: 'Gestión interna',
+		equipos: 'Gestión Interna',
 		razones:
 			'Me interesa la planificación general, ya sea de actividades o de posibles proyectos para crear más equipo y apoyo',
 		presentacion:
@@ -281,7 +281,7 @@ const data = [
 		instagram: 'florencia.arayac',
 		descripcion: 'Sociable, risueña, sencilla, profunda, torpe, graciosa',
 		foto:
-			'https://api.typeform.com/responses/files/5086162ff9c255a50260c7205fa1b9b0f44ae2355b2100dc67a21d0ff73041d9/16071098103763333252224989958865.jpg',
+			'https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-19/s150x150/114898201_1820166434805124_7174144669288573744_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_ohc=CHnJO1LKSf0AX8jlemo&tp=1&oh=6eba229a97aaf528838e82d01f30deb7&oe=5FF5996B',
 		mail: 'florenciaarayac@gmail.com',
 		teléfono: 56998370419,
 		whatsapp: 'wa.me/56998370419',
@@ -389,8 +389,8 @@ const data = [
 		descripcion: null,
 		foto: null,
 		mail: 'karol.ale.sd@gmail.com',
-		teléfono: null,
-		whatsapp: null,
+		teléfono: 56972360241,
+		whatsapp: 'wa.me/56972360241',
 		apodo: 'Karol',
 		'moradora ES': 'N/A',
 		madrina: 'Pathy',
@@ -400,11 +400,11 @@ const data = [
 		madrinaLink: 'instagram.com/corazonde.mariposa',
 		comentarios:
 			'Karol se vendrá a vivir a Santiago en febrero para estudiar diseño de vestuario, actualmente vive en Rancagua, lee el Tarot, actualmente participa en La rebelión pero en regiones (estudio 2 años terapia ocupacional)',
-		'equipos de interés': 'Gestión interna / Intervención',
+		'equipos de interés': 'Gestión Interna / Intervención',
 		'equipo recomendado': 'Proyectos',
 		ficha: 'x',
 		equipo: 'x',
-		equipos: 'Gestión interna, Intervención',
+		equipos: 'Gestión Interna, Intervención',
 		razones:
 			"Me gusta organizar y seria genial poder en algún momento recibir a las nuevas voluntarias, ya que tanto aquí como en la Rebelión O'Higgins que es de donde vengo me han recibido muy bien y quiero que siga siendo así 🌟",
 		presentacion:
@@ -428,11 +428,11 @@ const data = [
 		madrinaLink: 'instagram.com/mujerrrresiliente',
 		comentarios:
 			'Tiene 26 años , es profesora de inglés , llego a la rebelión por la vane , tiene un hijo de 6 años creo o 4 no me acuerdo bien, quiere aprender del aún más del feminismo y vivir esta experiencia grupal, tiene mucha energía y ganas de participar se conecto a la reu mientras estaba en una despedida de solteras, se percibe alegre y motivada, tenia muchas ganas de entrar ❤️',
-		'equipos de interés': 'Gestión interna',
-		'equipo recomendado': 'Gestión interna',
+		'equipos de interés': 'Gestión Interna',
+		'equipo recomendado': 'Gestión Interna',
 		ficha: 'x',
 		equipo: 'x',
-		equipos: 'Gestión interna, Intervención',
+		equipos: 'Gestión Interna, Intervención',
 		razones: 'Me gustaría participar en las marchas y en intervenciones que se realicen a lo largo del tiempo',
 		presentacion:
 			'Naty es profesora de inglés, mamá de Santiago, y muy motivada. Ella tiene muchas ganas de aprender más sobre el feminismo y la sororidad. Vemos en ella un gran aporte a Intervención, ya que tiene buenas ideas, es organizada y está con toda la disposición a participar.'
@@ -512,14 +512,14 @@ const data = [
 		comentarios:
 			'Psicologa- comunicadora. 34 años trabajó siempre en la parte organizacional de empresas, terminó psicologia este año, participa de la Red de psicologas Feminista de la coordinadora de valpo. esta haciendo el diplomado de la Nere y tambien hizo el la capacitacion de cidem y el taller de autoestima política',
 		'equipos de interés': 'gestion interna',
-		'equipo recomendado': 'Gestión interna',
+		'equipo recomendado': 'Gestión Interna',
 		ficha: 'x',
 		equipo: 'x',
-		equipos: 'Gestión interna, Podcast',
+		equipos: 'Gestión Interna, Podcast',
 		razones:
 			'Siempre me ha gustado trabajar y desarrollar temas internos de los equipos que he integrado. Me interesó mucho lo de realizar inducciones, y autoformar a nuestras compañeras. Me interesó mucho la Academia Rebelde',
 		presentacion:
-			'Valeria es psicóloga y comunicadora, tiene mucha experiencia en gestión de equipos y está muy motivada en desarrollar equipos, por lo que ve en Gestión interna su lugar'
+			'Valeria es psicóloga y comunicadora, tiene mucha experiencia en gestión de equipos y está muy motivada en desarrollar equipos, por lo que ve en Gestión Interna su lugar'
 	}
 ];
 
@@ -528,8 +528,8 @@ const teams = [
 	{ id: 'Gestión Interna', link: 'gestion-interna' },
 	{ id: 'Intervención', link: 'intervencion' },
 	{ id: 'Proyectos', link: 'proyectos' },
-	{ id: 'Vinculación', link: 'vinculacion' },
-	{ id: 'Podcast', link: 'podcast' }
+	{ id: 'Podcast', link: 'podcast' },
+	{ id: 'Vinculación', link: 'vinculacion' }
 ];
 
 export default data;

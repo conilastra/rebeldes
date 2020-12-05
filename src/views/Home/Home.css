@@ -1,0 +1,47 @@
+.home {
+	text-align: center;
+	height: 100vh;
+}
+
+.home__title {
+	font-family: var(--homemade-apple);
+	line-height: 1.5;
+}
+
+.home__highlight {
+	color: var(--yellow);
+	font-family: var(--arvo);
+}
+.home_buttons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding-top: 2rem;
+	position: relative;
+}
+
+.home_buttons > a {
+	text-decoration: none;
+	z-index: 10000;
+}
+
+.home__button {
+	background-color: var(--yellow);
+	border: none;
+	border-radius: 30px;
+	color: black;
+	display: block;
+	font-family: var(--arvo);
+	font-size: 1rem;
+	font-weight: bold;
+	padding: .5rem 1rem;
+	margin: .25rem;
+	text-align: center;
+	text-decoration: none;
+	z-index: 10000;
+}
+
+.home__image {
+	height: 500px;
+	position: absolute;
+}
