@@ -6,6 +6,7 @@ import Spinner from '../../components/Spinner/Spinner';
 import Member from '../../components/Member/Member';
 
 import './Team.css';
+import Header from '../../components/Header/Header';
 
 const Team = ({ people, teams, onClick }) => {
 	const [ currentTeam, setCurrentTeam ] = useState(null);
@@ -58,6 +59,7 @@ const Team = ({ people, teams, onClick }) => {
 			{!match && firstLoad && imageStatus === 'pending' ? <Redirect to="/" /> : null}
 			{currentTeam && teamData ? (
 				<main>
+					<Header />
 					<h1 className="teamname">{currentTeam.id.toUpperCase()}</h1>
 					{teamData.map((data) => (
 						<Member

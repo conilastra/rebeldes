@@ -1,0 +1,9 @@
+header {
+	text-align: center;
+}
+
+.logo > svg {
+	height: 60px;
+	cursor: pointer;
+	padding-bottom: 1rem;
+}
