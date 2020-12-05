@@ -308,9 +308,10 @@ const data = [
 	},
 	{
 		nombre: 'Gianinna Valenzuela',
-		instagram: null,
-		descripcion: null,
-		foto: null,
+		instagram: 'ianiv_',
+		descripcion: 'alguien apañadora y buena onda',
+		foto:
+			'https://api.typeform.com/responses/files/b72c7c64c94ca2b57c17b72fee77b45045b1f83c47a46d8e031db4c742d28b04/IMG_20201205_185556_286.jpg',
 		mail: 'gianinna.valenzuela@gmail.com',
 		celular: 56968711219,
 		whatsapp: 'wa.me/56968711219',
@@ -361,9 +362,11 @@ const data = [
 	},
 	{
 		nombre: 'Karina Arrepol Miranda',
-		instagram: null,
-		descripcion: null,
-		foto: null,
+		instagram: 'intensa.siempre',
+		descripcion:
+			'Amo comunicar, me gusta apañar a mis congéneres, hacer amistades profundas, reírme de la vida y abrir caminos. ',
+		foto:
+			'https://api.typeform.com/responses/files/f5a89cc7be4fa071eb18d9665691b959bba9f4aed6a9df97a5fd8779356174c5/IMG_20201028_102343.jpg',
 		mail: 'karina.arrepol@usach.cl',
 		celular: 56952083178,
 		whatsapp: 'wa.me/56952083178',
@@ -441,9 +444,11 @@ const data = [
 	},
 	{
 		nombre: 'Paulina Suárez',
-		instagram: null,
-		descripcion: null,
-		foto: null,
+		instagram: 'pauliaurora',
+		descripcion:
+			'Orgullosa penquista que invade Santiago, me encanta el cine y los conciertos. Trato de aportar buena onda y optimismo donde sea que vaya',
+		foto:
+			'https://api.typeform.com/responses/files/be12fe9bae65309427efdb48613ddcd32470169e0d9dcd4af69ff7f74b16e69a/128151515_10158764637162733_148269253756395930_o.jpg',
 		mail: 'pauli.suarezt@gmail.com',
 		celular: 56944085787,
 		whatsapp: 'wa.me/56944085787',
