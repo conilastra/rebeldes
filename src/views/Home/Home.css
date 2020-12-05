@@ -1,6 +1,9 @@
 .home {
 	text-align: center;
 	height: 100vh;
+	background-position: bottom;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .home__title {
@@ -53,6 +56,10 @@
 }
 
 @media (min-width: 769px) {
+	.home {
+		background-position: right;
+	}
+
 	.home__title {
 		padding-top: 5rem;
 	}

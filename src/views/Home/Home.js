@@ -6,7 +6,7 @@ import './Home.css';
 
 const Home = ({ teams }) => {
 	return (
-		<main className="home fade-in">
+		<main className="home fade-in" style={{ backgroundImage: `url("/images/women.svg")` }}>
 			<Header />
 			<h1 className="home__title">
 				Bienvenidas a la <span className="home__highlight">Familia Rebelde</span>
@@ -20,7 +20,6 @@ const Home = ({ teams }) => {
 						</Link>
 					))}
 				</div>
-				<img className="home__image" src={process.env.PUBLIC_URL + 'images/women.png'} />
 			</section>
 		</main>
 	);
