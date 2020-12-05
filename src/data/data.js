@@ -220,7 +220,7 @@ const data = [
 		razones:
 			'Creo que puedo ser un aporte, soy muy organizada, al ser profesora de me da muy bien planificar y trabajar directamente con otras personas.',
 		presentacion:
-			'Organizada y creativa, Catalina es profesora (de inglés) y cuenta dentro de sus superpoderes su capacidad de planificación, orden y el manejo de personas, por lo que sería un gran aporte para Gestión Interna.'
+			'Organizada y creativa, Catalina es profesora (de inglés) y cuenta dentro de sus superpoderes su capacidad de planificación, orden y el manejo de personas.'
 	},
 	{
 		nombre: 'Catalina Pérez-Brebes',
@@ -274,7 +274,7 @@ const data = [
 		razones:
 			'Me interesa la planificación general, ya sea de actividades o de posibles proyectos para crear más equipo y apoyo',
 		presentacion:
-			'Daniela es arquitecta y manifiesta interés tanto por la gestión de personas como por la planificación en general, por lo que ve en Gestión Interna un espacio donde puede aportar.'
+			'Daniela es arquitecta y manifiesta interés tanto por la gestión de personas como por la planificación en general.'
 	},
 	{
 		nombre: 'Florencia Araya Concha',
