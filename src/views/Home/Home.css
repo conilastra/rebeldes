@@ -12,15 +12,19 @@
 	color: var(--yellow);
 	font-family: var(--arvo);
 }
-.home_buttons {
+
+.home__content {
+	position: relative;
+}
+
+.home__buttons {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	padding-top: 2rem;
-	position: relative;
 }
 
-.home_buttons > a {
+.home__buttons > a {
 	text-decoration: none;
 	z-index: 10000;
 }
@@ -43,5 +47,23 @@
 
 .home__image {
 	height: 500px;
+	left: -100px;
 	position: absolute;
+	top: -51px;
+}
+
+@media (min-width: 769px) {
+	.home__title {
+		padding-top: 5rem;
+	}
+
+	.home__image {
+		left: initial;
+	}
+
+	.home__buttons {
+		max-width: 50%;
+		margin: 0 auto;
+		padding-top: 3rem;
+	}
 }

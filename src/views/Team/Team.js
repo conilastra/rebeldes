@@ -60,15 +60,17 @@ const Team = ({ people, teams, onClick }) => {
 			{currentTeam && teamData ? (
 				<main>
 					<Header />
-					<h1 className="teamname">{currentTeam.id.toUpperCase()}</h1>
-					{teamData.map((data) => (
-						<Member
-							data={data}
-							imageStatus={imageStatus}
-							setImageStatus={setImageStatus}
-							key={data.apodo}
-						/>
-					))}
+					<h1 className="team-name">{currentTeam.id.toUpperCase()}</h1>
+					<section className="team">
+						{teamData.map((data) => (
+							<Member
+								data={data}
+								imageStatus={imageStatus}
+								setImageStatus={setImageStatus}
+								key={data.apodo}
+							/>
+						))}
+					</section>
 				</main>
 			) : (
 				<Spinner />

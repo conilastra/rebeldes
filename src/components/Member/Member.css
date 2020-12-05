@@ -41,3 +41,9 @@
 	margin-left: .5rem;
 	font-weight: bolder;
 }
+
+@media (min-width: 769px) {
+	.member {
+		max-width: 33%;
+	}
+}

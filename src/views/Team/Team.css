@@ -1,5 +1,13 @@
-.teamname {
+.team-name {
 	color: var(--yellow);
 	font-family: var(--arvo);
 	text-align: center;
+}
+
+@media (min-width: 769px) {
+	.team {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
 }

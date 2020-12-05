@@ -80,7 +80,7 @@ const data = [
 		razones:
 			'Me gusta vinculación, soy vendedora y creo que podría ser un buen aporte.... porque en el fondo es venderles lo  que hacemos en al rebelión a otras personas y hacer actividades colaborativas y/o obtener beneficios',
 		presentacion:
-			'Alejandra es muy motivada y proactiva, esa clase de persona que toma la iniciativa y saca adelante proyectos. Desde su experiencia como vendedora, considera que podría ser un gran aporte a Vinculación, ya que lo ve como una instancia de ~vender~ lo que hacemos en La Rebelión a otras organizaciones y así lograr alianzas colaborativas.'
+			'Alejandra es muy motivada y proactiva. Desde su experiencia como vendedora, considera que podría ser un gran aporte a Vinculación, ya que lo ve como una instancia de "vender" lo que hacemos en La Rebelión a otras organizaciones y así lograr alianzas colaborativas.'
 	},
 	{
 		nombre: 'Anaí Nuñez',
@@ -135,7 +135,7 @@ const data = [
 		razones:
 			'Porque creo que he vivido varías situaciones de distintos tipos de violencia de género, y la mejor manera en que puedo expresar mis propias experiencias y las cosas que me voy cuestionando en mi proceso de deconstrucción, es escribiendo. Y creo que las personas que leen lo que escribo, se conectan y entienden lo que quiero decir. Además, como la mejor manera (según yo) que tengo para transmitir un mensaje, es escribiendo, por lo que mi granito de arena que podría aportar, podría ser a través de la escritura. También creo que comunicaciones es un espacio de confianza y de cuestionarse mucho las cosas, y esas son dos cosas fundamentales que tengo. Poder escuchar para apoyar y al mismo tiempo compartir mis experiencias para sentirme acompañada. Y (literalmente), estoy todo el día cuestionándome TODO lo que está pasando a mi alrededor. Y creo que con eso, podría ser un aporte para Comunicaciones :)',
 		presentacion:
-			'Anais tiene apenas 19 años, pero tiene ya experiencia participando de organizaciones sociales. Desde su propia historia enfrentándose a distintos tipos de violencia de género comenzó a desarrollar un pensamiento crítico que canaliza a través de la escritura, por eso ve su lugar en Comunicaciones.'
+			'Anais tiene apenas 19 años, pero tiene ya experiencia participando de organizaciones sociales. Desde su propia historia enfrentándose a distintos tipos de violencia de género comenzó a desarrollar un pensamiento crítico que canaliza a través de la escritura.'
 	},
 	{
 		nombre: 'Carolina Flores',
@@ -162,7 +162,7 @@ const data = [
 		equipos: 'Intervención',
 		razones: 'Me gustaria poder aportar para hacer mucho mas visible la violencia de genero en otros espacios',
 		presentacion:
-			'Carolina es enfermera y eso es parte de su inspiración: el impacto de los estereotipos que observa desde el mundo de la salud. Quiere unirse a Intervención para visibilizar la violencia de género en distintos espacios.'
+			'Carolina es enfermera y eso es parte de su inspiración: el impacto de los estereotipos que observa desde el mundo de la salud. Quiere aportar en visibilizar la violencia de género en distintos espacios.'
 	},
 	{
 		nombre: 'Caroline Márquez',
@@ -191,7 +191,7 @@ const data = [
 		razones:
 			'Porque me gustaría aportar generando proyectos y concursos. Además, puede que tenga algo de experiencia ya que trabajo con licitaciones públicas y me ha tocado reunir documentos administrativos para licitaciones públicas',
 		presentacion:
-			'Caroline es arquitecta, tiene experiencia trabajando con licitaciones y reuniendo documentos administrativos para licitaciones públicas, por lo que llega a Proyectos a aportar con todo su conocimiento.'
+			'Caroline es arquitecta, tiene experiencia trabajando con licitaciones y reuniendo documentos administrativos para licitaciones públicas.'
 	},
 	{
 		nombre: 'Catalina Bernal',
@@ -302,7 +302,7 @@ const data = [
 		razones:
 			'Porque me inspiran profundamente, han cambiado mi forma de ver la vida y la nutrición, junto con la forma de relacionarme con mis pacientes. Busco un espacio de contención, seguridad y sororidad.',
 		presentacion:
-			'Florencia tiene 26 años, es nutricionista, y a partir de su formación y vida profesional, ha desarrollado una mirada crítica respecto a la industria de la inseguridad. Considera que La Rebelión fue clave en esta nueva manera de vincularse con les otres, ya que la acercó a la sororidad y el feminismo. Con toda esta motivación, Florencia será un gran aporte en la creación y ejecución de actividades en donde nuestro mensaje se haga escuchar.'
+			'Florencia es nutricionista y ha desarrollado una mirada crítica respecto a la industria de la inseguridad. Busca un espacio sororo donde poder aportar.'
 	},
 	{
 		nombre: 'Gianinna Valenzuela',
@@ -355,7 +355,7 @@ const data = [
 		razones:
 			'Soy periodista, por lo que es el área donde tengo más experiencia y donde creo que puedo aportar y aprender.',
 		presentacion:
-			'Karen es periodista de profesión y tiene experiencia generando contenido, por lo que ve Comunicaciones como el lugar desde el que más puede aportar. Viene con muchas ganas de aprender y aportar al equipo: el mensaje de La Rebelión en su vida personal le hizo mucho sentido y espera poder aportar a que muchas mujeres mas puedan sentir lo mismo.'
+			'Karen es periodista de profesión y tiene experiencia generando contenidos. El mensaje de La Rebelión en su vida personal le hizo mucho sentido y espera poder aportar a que muchas mujeres mas puedan sentir lo mismo.'
 	},
 	{
 		nombre: 'Karina Arrepol Miranda',
@@ -381,7 +381,7 @@ const data = [
 		equipos: 'Intervención',
 		razones: null,
 		presentacion:
-			'Karina es comunicadora y busca poder llevar el mensaje de La Rebelión a través de diferentes experiencias, por lo que ve en Intervención su espacio de acción. Señala que tiene poco tiempo y disponibilidad, pero muchas ganas de participar.'
+			'Karina es comunicadora y busca poder llevar el mensaje de La Rebelión a través de diferentes experiencias. Señala que tiene poco tiempo y disponibilidad, pero muchas ganas de participar.'
 	},
 	{
 		nombre: 'Karol Sánchez',
@@ -408,7 +408,7 @@ const data = [
 		razones:
 			"Me gusta organizar y seria genial poder en algún momento recibir a las nuevas voluntarias, ya que tanto aquí como en la Rebelión O'Higgins que es de donde vengo me han recibido muy bien y quiero que siga siendo así 🌟",
 		presentacion:
-			"Motivada y alegre, Karol viene desde La Rebelión de O'Higgins a contagiarnos con su energia positiva. Quiere aportar en Intervención con su gran capacidad de organización y entusiasmo por participar de diversas actividades."
+			"Karol viene desde La Rebelión de O'Higgins a contagiarnos con su energia positiva. Quiere aportar desde su capacidad de organización y entusiasmo por participar de diversas actividades."
 	},
 	{
 		nombre: 'Natalia Salamanca',
@@ -435,7 +435,7 @@ const data = [
 		equipos: 'Gestión Interna, Intervención',
 		razones: 'Me gustaría participar en las marchas y en intervenciones que se realicen a lo largo del tiempo',
 		presentacion:
-			'Naty es profesora de inglés, mamá de Santiago, y muy motivada. Ella tiene muchas ganas de aprender más sobre el feminismo y la sororidad. Vemos en ella un gran aporte a Intervención, ya que tiene buenas ideas, es organizada y está con toda la disposición a participar.'
+			'Naty es profesora de inglés, mamá de Santiago, y muy motivada. Tiene buenas ideas, es organizada y está con toda la disposición a participar.'
 	},
 	{
 		nombre: 'Paulina Suárez',
@@ -462,7 +462,7 @@ const data = [
 		razones:
 			'Porque en este momento estoy buscando espacios de activismo en la comunidad, más que sólo instancias internas. En mi vida en general busco las instancias participativas comunitarias',
 		presentacion:
-			'Paulina es kinesióloga de profesión, pero su trabajo se enfoca en políticas públicas y gestión. Está muy interesada en participar del activismo hacia la comunidad, por eso eligió Intervención como su equipo.'
+			'Paulina es kinesióloga de profesión, pero su trabajo se enfoca en políticas públicas y gestión. Está muy interesada en participar del activismo hacia la comunidad.'
 	},
 	{
 		nombre: 'Tania Reyes',
@@ -491,7 +491,7 @@ const data = [
 		razones:
 			'Porque me mueve el remover, el generar consciencia y así ir modificando pensamientos , ya sea al entorno directo en indirecto, como a mí misma',
 		presentacion:
-			'Tania es madre y eso fue un catalizador que la movilizó: empezó a cuestionarse los esquemas tradicionales para empoderarse y crear un mejor mundo para su hija. Desde esta visión crítica, señala que le interesa el remover, generar consciencia y modificar así pensamientos, por lo que se une a Comunicaciones con la energía de generar contenidos en esta línea.'
+			'Tania es mamá y educadora de párvulos, se une a La Rebelión para remover, generar consciencia y modificar así pensamientos, tanto en el entorno directo como hacia ella misma.'
 	},
 	{
 		nombre: 'Valeria Leiva Gajardo',
@@ -519,7 +519,7 @@ const data = [
 		razones:
 			'Siempre me ha gustado trabajar y desarrollar temas internos de los equipos que he integrado. Me interesó mucho lo de realizar inducciones, y autoformar a nuestras compañeras. Me interesó mucho la Academia Rebelde',
 		presentacion:
-			'Valeria es psicóloga y comunicadora, tiene mucha experiencia en gestión de equipos y está muy motivada en desarrollar equipos, por lo que ve en Gestión Interna su lugar'
+			'Valeria es psicóloga y comunicadora. Tiene experiencia gestionando equipos y está muy motivada en aportar a nivel de desarrollo interno.'
 	}
 ];
 
