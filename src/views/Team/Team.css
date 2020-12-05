@@ -1,0 +1,5 @@
+.teamname {
+	color: var(--yellow);
+	font-family: var(--arvo);
+	text-align: center;
+}
