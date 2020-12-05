@@ -58,7 +58,7 @@ const Team = ({ people, teams, onClick }) => {
 		<div className="wrapper">
 			{!match && firstLoad && imageStatus === 'pending' ? <Redirect to="/" /> : null}
 			{currentTeam && teamData ? (
-				<main>
+				<main className="fade-in">
 					<Header />
 					<h1 className="team-name">{currentTeam.id.toUpperCase()}</h1>
 					<section className="team">

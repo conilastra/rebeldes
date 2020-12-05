@@ -6,7 +6,7 @@ import './Home.css';
 
 const Home = ({ teams }) => {
 	return (
-		<main className="home">
+		<main className="home fade-in">
 			<Header />
 			<h1 className="home__title">
 				Bienvenidas a la <span className="home__highlight">Familia Rebelde</span>

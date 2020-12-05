@@ -112,9 +112,11 @@ const data = [
 	},
 	{
 		nombre: 'Anais Beaulieu',
-		instagram: null,
-		descripcion: null,
-		foto: null,
+		instagram: '_anebm',
+		descripcion:
+			'Soy muy apañadora (en todo sentido), me gusta mucho escuchar a la gente, aprender, escribir y dormir. Creo que soy chistosa y me encanta discutirle a los machitos y a los boomers (me cuesta quedarme callada con ciertos temas)',
+		foto:
+			'https://api.typeform.com/responses/files/540add5ca799245b2a073fc1b1d2c1ea5bb2b4a647550c117d07b5a7963cebb4/B5697C6C_85B4_4881_A67F_783B54C667D2.jpeg',
 		mail: 'anaisbm9@gmail.com',
 		teléfono: 56975185991,
 		whatsapp: 'wa.me/56975185991',
