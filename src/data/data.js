@@ -1,9 +1,10 @@
 const data = [
 	{
 		nombre: 'Agustina Page',
-		instagram: null,
-		descripcion: null,
-		foto: null,
+		instagram: 'agussstinapage',
+		descripcion: 'Animalista y feminista de corazón',
+		foto:
+			'https://api.typeform.com/responses/files/fde76fc6f02e7aed1c4169196f0973dbe228007768679e91da96ccd0ec480b91/2020_12_05__2_.png',
 		mail: 'agustinapage@gmail.com',
 		celular: 56978978125,
 		whatsapp: 'wa.me/56978978125',
@@ -226,9 +227,10 @@ const data = [
 	},
 	{
 		nombre: 'Catalina Pérez-Brebes',
-		instagram: null,
-		descripcion: null,
-		foto: null,
+		instagram: 'catanelise',
+		descripcion: 'Tolerante y simpatica',
+		foto:
+			'https://api.typeform.com/responses/files/4466bdcaca75b10a86d23409b0871280680402cb6315f68ee5c6c4dcd97c625f/FWNZ8867.JPG',
 		mail: 'catperezp@gmail.com',
 		celular: 56976137849,
 		whatsapp: 'wa.me/56976137849',
